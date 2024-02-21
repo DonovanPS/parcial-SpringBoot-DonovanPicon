@@ -53,3 +53,4 @@ el stoke aqui es la cantidad de la venta
 ```
 
 ![Diagrama de Clases](https://drive.google.com/file/d/1fA2eg94nkKioerlr4Ln3WpGHbQcQ2tu8/view?usp=sharing)
+url:https://drive.google.com/file/d/1fA2eg94nkKioerlr4Ln3WpGHbQcQ2tu8/view?usp=sharing
